@@ -1,4 +1,4 @@
-# Content Aggregator
+# Podcast Aggregator
 **Below is information on how my `ebay-dl.py` file scrapes product data from eBay and returns a JSON file with the information on that product.**
 
 ---
